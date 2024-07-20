@@ -7,19 +7,19 @@ import streamlit as st
 import pandas as pd
 import altair as alt
 
-from langchain.chains import LLMChain
-from langchain_core.prompts import PromptTemplate
-from langchain_openai import OpenAI
+#from langchain.chains import LLMChain
+#from langchain_core.prompts import PromptTemplate
+#from langchain_openai import OpenAI
 import pandas as pd
 import numpy as np
 import datetime
 import plotly.express as px
 from PIL import Image
 from render_graphs import plotting
-from model import make_prediction
-from gpt import LLM
+#from model import make_prediction
+#from gpt import LLM
 from typing import Iterator
-
+from pathlib import Path
 #######################
 # Page configuration
 st.set_page_config(
@@ -383,7 +383,8 @@ with col[0]:
                 key: inputs[key] for key in variable_labels_3.keys() if key in inputs}
             filtered_inputs3['churn_prediction'] = customer_churn
 
-            chat_value = LLM(filtered_inputs3)
+            #chat_value = LLM(filtered_inputs3)
+            chat_value = "Temporarily Unavialable"
 
             print(chat_value)
 
