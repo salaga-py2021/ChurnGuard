@@ -1,8 +1,10 @@
 import pickle as pkl
 import pandas as pd
-from typing import Iterator
-import os
 from openai import OpenAI
+import streamlit as st
+import pandas as pd
+import plotly.graph_objects as go
+from pathlib import Path
 
 def predict_from_pkl(pkl_path,new_record=None,X_test=None, scaler=None):
     with open(pkl_path, 'rb') as f:
@@ -28,11 +30,6 @@ def predict_from_pkl(pkl_path,new_record=None,X_test=None, scaler=None):
     else:
         return False
     
-
-import streamlit as st
-import pandas as pd
-import plotly.graph_objects as go
-from pathlib import Path
 
 # Function to detect and adjust outliers using IQR method
 def adjust_outliers(df, columns):

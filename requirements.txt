@@ -50,6 +50,7 @@ pydantic==2.8.2
 pydantic-core==2.20.1
 pydeck==0.9.1
 pyyaml==6.0.1
+plotly=5.20.0
 referencing==0.35.1
 regex==2024.5.15
 requests==2.32.3
