@@ -54,7 +54,7 @@
 ## About The Project
 <div style="text-align:center">
 <a href="https://github.com/salaga-py2021/ChurnGuard">
-  <img src="Web App/demo.png" alt="demo" width=80% height=90%>
+  <img src="images/demo.png" alt="demo" width=80% height=90%>
 </a>
 </div>
 
