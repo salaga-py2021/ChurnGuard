@@ -82,35 +82,35 @@ ChurnGuard predicts data using popular ensemble models (logistic regression, ran
   <tbody>
     <tr>
       <td>Random Forest</td>
-      <td>82.23%</td>
-      <td>81.87%</td>
-      <td>82.23%</td>
-      <td>83.94%</td>
-      <td>80.51%</td>
+      <td>83.14%</td>
+      <td>59.23%</td>
+      <td>0.7541</td>
+      <td>88.08%</td>
+      <td>62.74%</td>
     </tr>
     <tr>
       <td>ADA Boost</td>
-      <td>73.20%</td>
-      <td>72.94%</td>
-      <td>73.19%</td>
-      <td>73.90%</td>
-      <td>72.48%</td>
+      <td>73.14%</td>
+      <td>45.12%</td>
+      <td>0.6686</td>
+      <td>77.16%</td>
+      <td>56.55%</td>
     </tr>
     <tr>
       <td>XG Boost</td>
-      <td>83.46%</td>
-      <td>82.88%</td>
-      <td>83.46%</td>
-      <td>86.64%</td>
-      <td>80.28%</td>
+      <td>81.44%</td>
+      <td>56.19%</td>
+      <td>0.7368</td>
+      <td>86.41%</td>
+      <td>60.97%</td>
     </tr>
     <tr>
       <td>Logistic Regression</td>
-      <td>55.53%</td>
-      <td>60.23%</td>
-      <td>55.58%</td>
-      <td>43.57%</td>
-      <td>67.57%</td>
+      <td>59.22%</td>
+      <td>37.52%</td>
+      <td>0.6055</td>
+      <td>58.36%</td>
+      <td>62.74%</td>
     </tr>
   </tbody>
 </table>
