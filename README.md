@@ -6,8 +6,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/harshak913/ChurnGuard">
-    <img src="Web App/churnguard.jpg" alt="Logo" width="80" height="80">
+  <a href="https://github.com/salaga-py2021/ChurnGuard">
+    <img src="images/churnguard.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">ChurnGuard</h3>
@@ -15,7 +15,7 @@
   <p align="center">
     Streamlined to help your business lock in customer loyalty
     <br />
-    <a href="https://github.com/harshak913/ChurnGuard"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/salaga-py2021/ChurnGuard"><strong>Explore the docs »</strong></a>
     <br />
     <br />
    <!-- <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a> -->
@@ -53,7 +53,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <div style="text-align:center">
-<a href="https://github.com/harshak913/ChurnGuard">
+<a href="https://github.com/salaga-py2021/ChurnGuard">
   <img src="Web App/demo.png" alt="demo" width=80% height=90%>
 </a>
 </div>
@@ -216,7 +216,7 @@ Distributed under the MIT License.
 
 
 
-Project Link: [https://github.com/harshak913/ChurnGuard](https://github.com/harshak913/ChurnGuard)
+Project Link: [https://github.com/salaga-py2021/ChurnGuard](https://github.com/salaga-py2021/ChurnGuard)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
